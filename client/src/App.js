@@ -1,0 +1,1 @@
+// React App entry for ai-text-generator

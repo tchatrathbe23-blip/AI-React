@@ -1,0 +1,1 @@
+{"name": "ai-text-generator-server", "scripts": {"start": "node index.js"}}
